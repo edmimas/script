@@ -1,3 +1,1 @@
-echo "definição1"
-echo "definição2"
-echo "definição3"
+echo "ah mano, pesquisei e nao achei, deu pra fazer nao :("
