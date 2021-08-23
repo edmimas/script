@@ -1,6 +1,6 @@
 if [ -z "${*}" ]
 then
-	echo "ERRO!!\nDeve ser passado um nome de arquivo"
+	echo -e "ERRO!!\nDeve ser passado um nome de arquivo"
 	exit
 fi
 
