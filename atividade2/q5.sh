@@ -23,8 +23,8 @@ b=$(wc -l < $q2)
 
 if [ $a -gt $b ]
 then
-	echo $a
+	echo $q1
 else
-	echo $b
+	echo $q2
 fi
 
